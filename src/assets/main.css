@@ -1,0 +1,38 @@
+@import './base.css';
+
+
+/* src/assets/css/global.css */
+
+@font-face {
+  font-family: 'Lilita One';
+  src: url('../assets/fonts/LilitaOne-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'NotoSan_bold';
+  src: url('../assets/fonts/NotoSansKR-Bold.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'NotoSan_medium';
+  src: url('../assets/fonts/NotoSansKR-Medium.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'NotoSan_regular';
+  src: url('../assets/fonts/NotoSansKR-Regular.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+
